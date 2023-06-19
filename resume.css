@@ -1,0 +1,68 @@
+h1{
+   
+    font-size: 40px;
+    text-align:center;
+    padding-left: 15%;
+    
+}
+.center{
+    margin-left: 33%;
+}
+
+  .resume img{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: black;
+    margin-left: 27%;
+
+  }
+
+.aboutcss ul li a{
+    text-decoration: none;
+    font-size: 15px;
+}
+
+  nav{
+    
+    align-items: center;
+    padding: 3% 5%;
+   
+}
+
+
+.aboutcss ul li{
+    display:inline-block;
+    padding:8px 12px;
+}
+
+.name {
+text-align: center;
+padding-top: 5%;
+}
+
+
+.aboutcss{
+    flex:1;
+    text-align:left;
+}
+
+*{
+    padding: 0;
+    margin:0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+} 
+
+.header{
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    
+}
+.pdf {
+    margin-left: 50%;
+    font-size: 20px;
+    margin-bottom: 5%;
+    margin-top: 2%;
+  }
+
+

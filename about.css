@@ -1,0 +1,62 @@
+ 
+p{
+    line-height: 2;
+    text-align:justify;
+    padding-left: 500px;
+    padding-right: 100px;
+}
+
+
+h1{
+    padding-left:40%;
+}
+
+nav{
+    
+    align-items: center;
+    padding: 3% 5%;
+   
+}
+.header{
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+img{
+    float: left;
+    max-width: 25%;
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
+
+.name {
+text-align: center;
+padding-top: 5%;
+}
+
+
+.aboutcss{
+    flex:1;
+    text-align:left;
+}
+
+.aboutcss ul li{
+    display:inline-block;
+    padding:8px 12px;
+}
+
+*{
+    padding: 0;
+    margin:0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+} 
+
+.aboutcss ul li a{
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
